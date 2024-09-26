@@ -1,7 +1,9 @@
 [build-system]
-name="minUQ"
-version="0.0.1"
-readme="README.md"
-requires-python=">=3.1"
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name="minUQ"
+version="0.1.0"
+readme="README.md"
+requires-python=">=3.1"
